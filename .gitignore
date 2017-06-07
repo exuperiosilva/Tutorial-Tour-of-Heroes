@@ -1,0 +1,8 @@
+**.zip
+
+node_modules
+src/**/*.js
+src/**/*.js.map
+!src/systemjs-angular-loader.js
+!src/systemjs.config.js
+!src/tsconfig.json
